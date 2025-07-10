@@ -4,7 +4,6 @@ Game sederhana menggunakan Godot Engine.
 
 ## Fitur
 - Kontrol karakter sederhana
-- Skor dan level
 
 ## Screenshot
 
